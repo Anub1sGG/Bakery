@@ -1,0 +1,35 @@
+@import "./utils/fonts";
+@import "./utils/variables";
+@import "./utils/mixins";
+@import "./utils/utils";
+@import "./utils/texts";
+@import "./utils/form-terms";
+@import "./base";
+@import "./utils/input";
+
+@import "./components/advantages";
+@import "./components/chefs";
+@import "./components/chefs-card.scss";
+@import "./components/contacts";
+@import "./components/container";
+@import "./components/footer";
+@import "./components/mobail-menu.scss";
+@import "./components/formats";
+@import "./components/header";
+@import "./components/main";
+@import "./components/modal.scss";
+@import "./components/section";
+@import "./components/traditions";
+@import "./components/format-card.scss";
+@import "./components/pagination.scss";
+
+@import "./components/buttons";
+@import "./components/links";
+
+@import "./components/traditions";
+@import "./components/carousel";
+@import "./components/address.scss";
+
+html {
+  scroll-behavior: smooth;
+}
